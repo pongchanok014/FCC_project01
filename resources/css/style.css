@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+main {
+  background-color: gainsboro;
+}
+
+/* header section  */
+header {
+  text-align: center;
+  margin: 0 auto;
+  padding: 30px 0 5px 0;
+}
+
+/* image section */
+
+#img-div {
+  background-color: white;
+  padding-bottom: 20px;
+
+}
+
+#image {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 100%;
+  height: auto;
+
+}
+
+#img-caption {
+  text-align: center;
+}
+
+/* info section */
+
+#tribute-info {
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+
+}
+
+#headline {
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+
+}
